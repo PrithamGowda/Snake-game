@@ -1,0 +1,1 @@
+def snake.up:
